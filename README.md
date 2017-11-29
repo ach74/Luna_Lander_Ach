@@ -56,7 +56,7 @@ Ademas tambien he recortado la luna, y la he separado del fondo. Luna actual:
 
 ### Diseño final
 
-##### Al final el juego a quedado tal que asi para los monitores:
+#### Al final el juego a quedado tal que asi para los monitores:
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ5.PNG)
 
@@ -74,7 +74,7 @@ Y el ultimo boton que es el de ajustes que habrira un menu con la posibilidad ca
 Este menu de opciones actualmente esta desactivado mediante css, con la orden "display: none".
 
 
-##### El diseño de los dispositivo móvil es el siguiente:
+#### El diseño de los dispositivo móvil es el siguiente:
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ8.PNG)
 
