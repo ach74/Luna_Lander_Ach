@@ -21,7 +21,7 @@ Respecto a la colocacion de elementos he hecho una serie de modificaciones para 
 
 ![Imagen anterior](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ1.PNG)
 
-En el lateral izquierdo para poder aprobechar mejor espacio. Y asi tener mas distancia de caida para la nave. El estilo actual que le he dado a sido el siguuiente.
+En el lateral izquierdo para poder aprobechar mejor espacio. Y asi tener mas distancia de caida para la nave. Los indicadores de "Velocidad" y el de "Altura" sigen funcionando de la misma manera que en el anterior diseño. Pero el indicador de combustible, he querido hacer una barra lateral que indique la capacidad. Asi da al juego mas dinamismos. El estilo actual que le he dado a sido el siguiente.
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ2.PNG)
 
@@ -36,7 +36,40 @@ Lo que he hecho es unir el boton de "Start" con el de "Pause", para ocupar asi m
 
 ![Imagen anterior](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ3.PNG)
 
-A los nuevos iconos les he intentado dar un color similar a el que tiene la nave. Para que mantenga asi el estilo del juego.
+A los nuevos iconos les he intentado dar un color similar a el que tiene la nave. Para que mantenga asi el estilo del juego. Ademas de que les he dado un efecto para que cuando clikes en ellos, sobre salgan y asi sean mas llamativos.
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ4.PNG)
+
+### Otras modificaciones
+
+Otro cambio que he realizado para que el juego ocupe menos espacio es recortado el fondo y lo he dividido el elementos mas pequeños. El fondo original es el siguiente:
+
+![Imagen anterior](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/Fondo%2Csineditar.jpg)
+
+Para que ocupe menos he cogido una porcion del fondo anterior, y ha hecho que se repita para optener un resultado similar. El actual fondo es el siguiente:
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/Fondo.jpg)
+
+Ademas tambien he recortado la luna, y la he separado del fondo. Luna actual:
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/Luna.png)
+
+### Diseño final
+
+Al final el juego a quedado tal que asi para los monitores:
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ5.PNG)
+
+Al boton con el simbolo de interogante ("?") te lleva a otra pagina web la cual tiene una brebe definicion de lo que hace el juego.
+La pagina a la cual te redirige es la siguiente:
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ7.PNG)
+
+
+Y asi queda con el menu de opciones desplegado:
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ6.PNG)
+
 
 
 
