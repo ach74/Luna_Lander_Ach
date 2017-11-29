@@ -56,7 +56,7 @@ Ademas tambien he recortado la luna, y la he separado del fondo. Luna actual:
 
 ### Diseño final
 
-Al final el juego a quedado tal que asi para los monitores:
+##### Al final el juego a quedado tal que asi para los monitores:
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ5.PNG)
 
@@ -70,6 +70,19 @@ La pagina a la cual te redirige es la siguiente:
 Y el ultimo boton que es el de ajustes que habrira un menu con la posibilidad cambiar la dificultat o poner sonido al juego.
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ6.PNG)
+
+Este menu de opciones actualmente esta desactivado mediante css, con la orden "display: none".
+
+
+##### El diseño de los dispositivo móvil es el siguiente:
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ8.PNG)
+
+En el he reunido todos los botones en uno, el boton de "Menu" hara la función pause cuando le demos. Y ademas desplegara un menu con todas las opciones que podiamos tener en la version de monitor. Aqui os dejo su etado desplegado:
+
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ9.PNG)
+
+En este caso tenemos el boton de reset y el de ayuda. Un inconveniente que he tenido ha sido no poder poner un link a dichos botones. Ya que los he declarado como "button", este pequeño inconveniente quedara solventado cuando pueda implementa el javascript.
 
 
 
