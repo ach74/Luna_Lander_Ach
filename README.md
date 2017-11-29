@@ -24,6 +24,9 @@ La primera modificacion que he ralizado es colocar los indicadores de:
 
 En el lateral izquierdo para poder aprobechar mejor espacio. Y asi tener mas distancia de caida para la nave.
 
+![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ2.PNG)
+
+
 
 
 
