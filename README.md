@@ -2,7 +2,6 @@
 
 ## Proyecto de lenguaje de marcas.
 
-https://cdn.rawgit.com/ach74/Luna_Lander_Ach/bef87c6c/Cohete.html
 
 Este proyecto ha sido creado por Achraf El Ouakili, del curso de desarollo de aplicaciones multiplataformas del instituto Francesc de Borjamoll. 
 
@@ -78,12 +77,15 @@ Este menu de opciones actualmente esta desactivado mediante css, con la orden "d
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ8.PNG)
 
-En el he reunido todos los botones en uno, el boton de "Menu" hara la función pause cuando le demos. Y ademas desplegara un menu con todas las opciones que podiamos tener en la version de monitor. Aqui os dejo su etado desplegado:
+En el diseño para movil he reunido todos los botones en uno y lo he llamado "Menu", el boton de "Menu" hara la función pause cuando le demos. Y ademas desplegara un menu con todas las opciones que podiamos tener en la version de monitor. Aqui os dejo su etado desplegado:
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ9.PNG)
 
 En este caso tenemos el boton de reset y el de ayuda. Un inconveniente que he tenido ha sido no poder poner un link a dichos botones. Ya que los he declarado como "button", este pequeño inconveniente quedara solventado cuando pueda implementa el javascript.
 
+Para finalizar esta presentacion os dejo aqui el link de pertinente juego:
+
+https://cdn.rawgit.com/ach74/Luna_Lander_Ach/bef87c6c/Cohete.html
 
 
 
