@@ -36,7 +36,7 @@ Lo que he hecho es unir el boton de "Start" con el de "Pause", para ocupar asi m
 
 ![Imagen anterior](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ3.PNG)
 
-A los nuevos iconos les he intentado dar un color similar a el que tiene la nave. Para que mantenga asi el estilo del juego. Ademas de que les he dado un efecto para que cuando clikes en ellos, sobre salgan y asi sean mas llamativos.
+A los nuevos iconos les he intentado dar un color similar a el que tiene la nave. Para que mantengan asi el estilo del juego. Ademas de que les he dado un efecto para que cuando clikes en ellos, sobre salgan y asi sean mas llamativos.
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ4.PNG)
 
@@ -60,13 +60,14 @@ Al final el juego a quedado tal que asi para los monitores:
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ5.PNG)
 
-Al boton con el simbolo de interogante ("?") te lleva a otra pagina web la cual tiene una brebe definicion de lo que hace el juego.
+El boton de "Pausa" y el de "Reset", tienen un link para recargar la pagina, ya que actualmente no he integrado el javascript.
+
+El boton con el simbolo de interogante ("?") te lleva a otra pagina web la cual tiene una brebe definicion de lo que hace el juego.
 La pagina a la cual te redirige es la siguiente:
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ7.PNG)
 
-
-Y asi queda con el menu de opciones desplegado:
+Y el ultimo boton que es el de ajustes que habrira un menu con la posibilidad cambiar la dificultat o poner sonido al juego.
 
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ6.PNG)
 
