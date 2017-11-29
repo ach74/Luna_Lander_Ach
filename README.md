@@ -1,12 +1,15 @@
 # Cohete_Llenguaje
 
-##Proyecto de lenguaje de marcas.
+## Proyecto de lenguaje de marcas.
+
+https://cdn.rawgit.com/ach74/Luna_Lander_Ach/bef87c6c/Cohete.html
 
 Este proyecto ha sido creado por Achraf El Ouakili, del curso de desarollo de aplicaciones multiplataformas del instituto Francesc de Borjamoll. 
 
 La finalidad del proyecto es realizar la colocacion previa de los elemtos que vana aser usado. En el juego que se realizara posteriormente llamado "Luna Lander".
 
-La colocacion de los elemtos debia de corresponder a la que el alumno [Cristian] (https://github.com/HighYitan/Proyecto-lunar-lander) presento como solucion a la demanda del cliente.
+La colocacion de los elemtos debia de corresponder a la que el alumno
+[CRISTIAN FONTCUBERTA LÓPEZ!](https://github.com/HighYitan/Proyecto-lunar-lander) presento como solucion a la demanda del cliente.
 
 Respecto a la colocacion de elementos he hecho una serie de modificaciones para que el proyecto sea mas adecuado, estetico y ocupe menos espacio.
 
