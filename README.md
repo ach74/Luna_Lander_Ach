@@ -3,25 +3,25 @@
 ## Proyecto de lenguaje de marcas.
 
 
-Este proyecto ha sido creado por Achraf El Ouakili, del curso de desarollo de aplicaciones multiplataformas del instituto Francesc de Borjamoll. 
+Este proyecto ha sido creado por Achraf El Ouakili, del curso de desarrollo de aplicaciones multiplataformas del instituto IES Francesc de Borja Moll. 
 
-La finalidad del proyecto es realizar la colocacion previa de los elemtos que vana aser usado. En el juego que se realizara posteriormente llamado "Luna Lander".
+La finalidad del proyecto es realizar la colocación previa de los elementos que van a ser usado en el juego que se realizara posteriormente llamado "Luna Lander".
 
-La colocacion de los elemtos debia de corresponder a la que el alumno
-[CRISTIAN FONTCUBERTA LÓPEZ](https://github.com/HighYitan/Proyecto-lunar-lander) presento como solucion a la demanda del cliente.
+La colocación de los elementos debía de corresponder a la que el alumno
+[CRISTIAN FONTCUBERTA LÓPEZ](https://github.com/HighYitan/Proyecto-lunar-lander) presento como solución a la demanda del cliente.
 
-Respecto a la colocacion de elementos he hecho una serie de modificaciones para que el proyecto sea mas adecuado, estetico y ocupe menos espacio.
+Respecto a la colocación de elementos he hecho una serie de modificaciones para que el proyecto sea mas adecuado, estético y ocupe menos espacio.
 
-### La primera modificacion que he ralizado es colocar los indicadores de:
+### La primera modificación que he realizado es colocar los indicadores de:
 * Velocidad
 * Altura
 * Combustible
 
+En el lateral izquierdo para poder aprovechar mejor espacio. Y así tener mas distancia de caída para la nave. Los indicadores de "Velocidad" y el de "Altura" siguen funcionando de la misma manera que en el anterior diseño. Pero el indicador de combustible, he querido hacer una barra lateral que indique la capacidad. Así da al juego mas dinamismos. El estilo actual que le he dado a sido el siguiente.
 
+Anterior
 ![Imagen anterior](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ1.PNG)
-
-En el lateral izquierdo para poder aprobechar mejor espacio. Y asi tener mas distancia de caida para la nave. Los indicadores de "Velocidad" y el de "Altura" sigen funcionando de la misma manera que en el anterior diseño. Pero el indicador de combustible, he querido hacer una barra lateral que indique la capacidad. Asi da al juego mas dinamismos. El estilo actual que le he dado a sido el siguiente.
-
+Actual
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ2.PNG)
 
 
