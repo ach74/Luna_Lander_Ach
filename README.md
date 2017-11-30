@@ -20,8 +20,11 @@ Respecto a la colocación de elementos he hecho una serie de modificaciones para
 En el lateral izquierdo para poder aprovechar mejor espacio. Y así tener mas distancia de caída para la nave. Los indicadores de "Velocidad" y el de "Altura" siguen funcionando de la misma manera que en el anterior diseño. Pero el indicador de combustible, he querido hacer una barra lateral que indique la capacidad. Así da al juego mas dinamismos. El estilo actual que le he dado a sido el siguiente.
 
 Anterior
+
 ![Imagen anterior](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ1.PNG)
+
 Actual
+
 ![Imagen actual](https://github.com/ach74/Luna_Lander_Ach/blob/master/img/EsQ2.PNG)
 
 
